@@ -1,0 +1,4 @@
+[console_scripts]
+math-please = pythonrun.core:obj3.out
+run-pythonproject = pythonrun.core:print_message
+

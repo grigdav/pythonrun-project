@@ -1,0 +1,9 @@
+README.txt
+setup.py
+pythonrun/__init__.py
+pythonrun/core.py
+pythonrun_project.egg-info/PKG-INFO
+pythonrun_project.egg-info/SOURCES.txt
+pythonrun_project.egg-info/dependency_links.txt
+pythonrun_project.egg-info/entry_points.txt
+pythonrun_project.egg-info/top_level.txt

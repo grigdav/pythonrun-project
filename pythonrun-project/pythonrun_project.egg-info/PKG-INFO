@@ -1,0 +1,28 @@
+Metadata-Version: 1.0
+Name: pythonrun-project
+Version: 1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: ============================================
+        
+        Пример создания python-проекта и его запуска.
+        ============================================
+        
+        
+        Во-первых, убедитесь что в вашей системе доступны один из наборов утилит (setuptools, distutils, distribute) выполняющих одинаковые задачи.
+        
+        Далее, выполните команду сборки следующей командой:
+           sudo python setup.py sdist
+           (в случае успеха - у вас появится полноценный архивированный файл .gz 
+              - НЕ ОБЯЗАТЕЛЬНО)
+        
+        Дальше, производим установку программы следующей командой:	
+            sudo python setup.py install
+        
+        При успешной установки появятся следующие команды:
+           run-pythonproject
+           math-please
+Platform: UNKNOWN
